@@ -8,7 +8,7 @@ body{
   transition: .5s;
 }
 header{
-  background-color: darkblue;
+  background-color: #000028;
   height: max-content;
   color: white;
 }
