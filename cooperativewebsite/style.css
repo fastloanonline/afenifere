@@ -74,6 +74,12 @@ header{
   padding: 10px 0;
   width: 90%;
   margin: auto;
+  display: none;
+}
+@media screen and (max-width:600px){
+  .mobile{
+    display: block;
+  }
 }
 .ham{
   width: 50px;
